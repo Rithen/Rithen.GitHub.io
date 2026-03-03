@@ -2,7 +2,11 @@
   "servers": [
     {
     "name": "Rithen部署在onrender的专属服务器", 
-    "address": "https://anisette-v3-server-a69g.onrender.com/"
+    "address": "https://anisette-v3-server-a69g.onrender.com"
+    },
+    {
+      "name": "本地",
+      "address": "http://192.168.1.111:6969"
     },
     {
       "name": "SideStore",
